@@ -18,7 +18,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iu-sumon&show_icons=true&theme=radical)
 
   ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=suyashpatil400&count_private=true&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iu-sumon&count_private=true&show_icons=true&theme=radical)
 
   ## GitHub Streak Stats
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=iu-sumon)  
