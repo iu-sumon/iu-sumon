@@ -1,4 +1,4 @@
-![I am  a junior web developer.]( https://i.ibb.co/XkVZD2m/Blue-Green-and-White-Modern-Tech-Web-Developer-Linked-In-Banner-3.png)
+![I am  a junior web developer.](https://ibb.co/xC936dw)
 ## Hi there 👋, my name is sumon
 #### I am a web developer.
  I have completed my B.Sc. and M.Sc. degree in Computer Science and Engineering at Islamic University, Kushtia, Bangladesh. I have a good understanding of front-end web technologies and tools. Such as HTML, CSS,JavaScript, React. Also, I have a basic knowledge of NodeJS, ExpressJS, and MongoDB. I have done a couple of projects using these technologies. I am confident in my ability to contribute to any project.
