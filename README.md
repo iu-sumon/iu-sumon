@@ -1,9 +1,9 @@
-![I am  a junior web developer.](https://i.ibb.co/NVD7Kbf/banner.png)
+![I am a Software Specialist](https://i.ibb.co/NVD7Kbf/banner.png)
 ## Hi there 👋, my name is sumon
-#### I am a web developer.
+#### I am a Software Specialist.
 I have a good understanding of front-end web technologies and tools. Such as HTML, CSS,JavaScript, React. Also, I have a basic knowledge of NodeJS, ExpressJS, and MongoDB. I have done a couple of projects using these technologies. I am confident in my ability to contribute to any project.
 
-![Profile views](https://gpvc.arturio.dev/iu-sumon)  
+![Profile views](https://gpvc.arturio.dev/iu-sumon) 
  
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 :computer: &emsp;I love coding <br/>
