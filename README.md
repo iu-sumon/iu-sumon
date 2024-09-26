@@ -1,4 +1,3 @@
-![I am a Software Specialist]
 ## Hi there 👋, my name is sumon
 #### I am a Software Specialist.
 I have a good understanding of front-end web technologies and tools. Such as HTML, CSS,JavaScript, React. Also, I have a basic knowledge of NodeJS, ExpressJS, and MongoDB. I have done a couple of projects using these technologies. I am confident in my ability to contribute to any project.
