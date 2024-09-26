@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is sumon
 #### I am a Software Specialist.
-I have a good understanding of front-end web technologies and tools. Such as HTML, CSS,JavaScript, React. Also, I have a basic knowledge of NodeJS, ExpressJS, and MongoDB. I have done a couple of projects using these technologies. I am confident in my ability to contribute to any project.
+I have a good understanding of front-end web technologies and tools. Such as HTML, CSS,JavaScript, Jquery, React. Also, I have a basic knowledge of NodeJS, ExpressJS, and MongoDB. I have done a couple of projects using these technologies. I am confident in my ability to contribute to any project.
 
 ![Profile views](https://gpvc.arturio.dev/iu-sumon) 
  
